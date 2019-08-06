@@ -1,4 +1,4 @@
-# MLX90640-termalcamera-moduled-Teensy-3.2-between-Matlab-Serial-communication
+# MLX90640-Termalcamera(IR KAMERA)-moduled-Teensy-3.2-between-Matlab-Serial-communication
 
 This code is  for  SparkFun MLX90640 camera which is controlled by Tensy 3.2 and Matlab serial communcation. In this code Image taken from SparkFUN MLX90640 will send to Matlab and it used COM23 and 9600 boundrate and matlab receive this image in one matlab function.
 
